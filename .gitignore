@@ -1,0 +1,10 @@
+*/Debug/
+*/*.mk
+*/*.project
+*/*.txt
+*/*.exe
+
+.codelite
+*.workspace
+Makefile
+tags
